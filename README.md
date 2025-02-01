@@ -1,3 +1,5 @@
+![dashboard](https://github.com/user-attachments/assets/48020460-ec92-411a-93db-55d1c9b5f76b)
+
 # Earthquake Dashboard Project
 
 ## Table of Contents
